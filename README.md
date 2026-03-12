@@ -1,5 +1,5 @@
 # Teste de Display I2C com ESP32
-Projeto desenvolvido para testar a comunicação entre um **ESP32** e um **display LCD (16x2 ou 20x4) com módulo I2C**, utilizando o ambiente **PlatformIO**. O objetivo é validar o endereço I2C, conferir o funcionamento do display e garantir que a biblioteca está operando corretamente.
+Projeto desenvolvido para testar a comunicação entre um **ESP32** e um **display LCD 16x2 com módulo I2C**, utilizando o ambiente **PlatformIO**. O objetivo é validar o endereço I2C, conferir o funcionamento do display e garantir que a biblioteca está operando corretamente.
 
 ## Tecnologias Utilizadas
 - ESP32
